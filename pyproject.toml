@@ -16,7 +16,7 @@ streamlit = "^1.42.0"
 
 [tool.poetry.group.dev.dependencies]
 watchdog = "^2.1.9"
-black = "^22.6.0"
+black = "^25.0.0"
 isort = "^5.10.1"
 bandit = "^1.7.5"
 
